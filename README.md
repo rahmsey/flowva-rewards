@@ -60,7 +60,23 @@ All authentication, reads, and writes are handled directly via Supabase.
 
 ## ⚙️ Setup Instructions
 
-### 1️⃣ Clone the repository
+### 1️ Clone the repository
 ```bash
 git clone https://github.com/rahmsey/flowwa-rewards.git
 cd rewards-hub
+```
+### 2 Install dependencies
+```bash
+npm install
+```
+### 3 Set up environment variables
+  Create a .env file in the project root and add the following
+```bash
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
+```
+### 4 Set up environment variables
+ Run the app locally
+```bash
+ npm run dev
+```
