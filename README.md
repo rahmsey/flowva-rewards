@@ -6,11 +6,11 @@ Users can earn points through daily check-ins, track streaks, and redeem rewards
 ---
 
 ## 🔗 Live Demo
-👉 **Live URL:** *[https://flowva-rewards-nine.vercel.app/]*
+ **Live URL:** *[https://flowva-rewards-nine.vercel.app/]*
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 - **Frontend:** React (Vite)
 - **Backend & Database:** Supabase
@@ -20,7 +20,7 @@ Users can earn points through daily check-ins, track streaks, and redeem rewards
 
 ---
 
-## ✨ Features
+##  Features
 
 - User authentication (login & signup)
 - Auto-created user profiles on first login
@@ -33,7 +33,7 @@ Users can earn points through daily check-ins, track streaks, and redeem rewards
 
 ---
 
-## 📊 Database Structure (Supabase)
+##  Database Structure (Supabase)
 
 **Tables used:**
 - `profiles`
