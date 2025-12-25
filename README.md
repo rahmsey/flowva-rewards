@@ -75,7 +75,7 @@ npm install
 VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_anon_key
 ```
-### 4 Set up environment variables
+### 4 Run the app locally
  Run the app locally
 ```bash
  npm run dev
