@@ -6,7 +6,7 @@ Users can earn points through daily check-ins, track streaks, and redeem rewards
 ---
 
 ## 🔗 Live Demo
-👉 **Live URL:** *(add your deployed link here)*
+👉 **Live URL:** *[https://flowva-rewards-nine.vercel.app/]*
 
 ---
 
